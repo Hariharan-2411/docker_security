@@ -58,7 +58,7 @@ To access and review the report:
 
 
 
-This project and report are open-source and available under the MIT License.Contact
+This project and report are open-source and available under the MIT License.
 
 
 
